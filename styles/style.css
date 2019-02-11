@@ -1,0 +1,38 @@
+header {
+  background-color: blue;
+  color: white;
+  font-size: 33px;
+  text-align: center;
+}
+img{
+  width: 50%;
+}
+.card{
+  background: #dda;
+  width: 25%;
+  border-radius: 2px 2px 2px;
+  box-shadow: 2px 2px 2px black;
+  text-align: center;
+  padding: 1%;
+  margin: 1%;
+}
+.mainDiv{
+  display: flex;
+  justify-content: space-between;
+}
+.main{
+  display: flex;
+}
+.leftDiv {
+  width: 30%;
+  background-color: #ddd;
+  border: 3px solid #000fff;
+  box-shadow: 3px 3px 3px #000000;
+}
+.rightDiv {
+  margin: 1%;
+  padding: 1%;
+  background-color: #FFFACD;
+  border: 1px solid #000fff;
+  box-shadow: 3px 3px 3px #000000;
+}
